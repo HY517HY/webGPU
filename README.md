@@ -1,5 +1,5 @@
 # webGPU
-webGPU透视相机详解
+webGPU透视相机详解，在学习透视相机时，发现所有学习资源总结的不够清晰，特写下此贴。
 
 # model martix、view martix、perspective martix
 在介绍之前首先给出三个坐标系：  
